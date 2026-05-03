@@ -1,0 +1,14 @@
+name: steam_games_analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pandas
+  - ipykernel
+  - pip
+  - pip:
+      - wordcloud
