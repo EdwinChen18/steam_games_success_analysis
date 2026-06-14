@@ -219,12 +219,11 @@ __marimo__/
 
 # Datasets
 data/raw/
-data/*.csv
-*.csv
+data/processed/reviews_clean.csv
+
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Conda env
-venv/
-*.egg-info/
+
+
